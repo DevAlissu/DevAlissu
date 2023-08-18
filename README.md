@@ -5,6 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4000&pause=1000&color=972996&background=00FF6C00&center=true&width=435&separator=%3C&lines=Eu+sou+o+Alissu;%3CEstudante+de+Engenharia+de+Software;%3CDesenvolvedor+Backend;%3CDesenvolvedor+Frontend;%3CUX%2FUI+designer;%3Cconsole.log(%22Tamo+Junto%22);" alt="Typing SVG" /></a>      
  <br>
  
+ <img src="https://img.shields.io/badge/JavaScript-240122?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" /></a> <img src="https://img.shields.io/badge/React-771e76?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS"/></a>  
+ 
 <table>
     <tr>
         <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-brtheme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-br&theme=midnight-purple&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
