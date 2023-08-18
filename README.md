@@ -7,11 +7,11 @@
  
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-brtheme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&theme=default&locale=pt-br&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&locale=pt-br&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-brtheme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&show_icons=true&locale=pt-br&theme=midnight-purple&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&theme=default&locale=pt-br&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&locale=pt-br&theme=midnight-purple&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&theme=default"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&locale=pt-br&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&theme=default"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&locale=pt-br&theme=midnight-purple"/></a></td>
     </tr>
    
 </table>
