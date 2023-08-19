@@ -6,7 +6,7 @@
  <br>
  <table align="right">
  <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./assets/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
+ <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/15fd8f89f6bbd6a3285e6779f420327a829230d7/README-pt-br.md"><img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
 </table>
 
  <img src="https://img.shields.io/badge/JavaScript-7f067f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" /> <img src="https://img.shields.io/badge/React-7f067f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS"/> <img src="https://img.shields.io/badge/jQuery-7f067f?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery"/> <img src="https://img.shields.io/badge/C-7f067f?style=for-the-badge&logo=c&logoColor=white" alt="Jquery"/>
