@@ -6,7 +6,7 @@
  <br>
  <table align="right">
  <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="25px"> English</a></td></tr>
- <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/15fd8f89f6bbd6a3285e6779f420327a829230d7/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="25px"> Português</a></td></tr>
+ <tr><td><a href="https://github.com/DevAlissu/DevAlissu/blob/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="25px"> Português</a></td></tr>
   <br>
 </table>
 <img src="https://img.shields.io/badge/JavaScript-7f067f?style=for-the-badge&logo=javascript&border-radius=10px&logoColor=F7DF1E" alt="JS" /> <img src="https://img.shields.io/badge/React-7f067f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS"/> </tr> <img src="https://img.shields.io/badge/jQuery-7f067f?style=for-the-badge&logo=jquery&logoColor=blue" alt="Jquery"/> <img src="https://img.shields.io/badge/C-7f067f?style=for-the-badge&logo=c&logoColor=white" alt="Jquery"/> <img src="https://img.shields.io/badge/Python-7f067f?style=for-the-badge&logo=python&logoColor=2d6a9a" alt="Python"/> <img src="https://img.shields.io/badge/Vue.js-7f067f?style=for-the-badge&logo=vue.js&logoColor=1169ae" alt="vuejs"/> <img src="https://img.shields.io/badge/Angular-7f067f?style=for-the-badge&logo=angular&logoColor=red" alt="angular"/>
