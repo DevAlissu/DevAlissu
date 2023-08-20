@@ -40,5 +40,5 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4000&pause=1000&color=972996&center=true&width=435&separator=%3C&lines=Thank+you+for+the+visit!!%3CCome+back+anytime!!%3CDon't+forget+to+follow+my+profile;%3CYou're+awesome%2C+buddy." alt="Typing SVG" /></a>
  <br>
-<div align="center" ><img alt="" width="100%" src="https://github.com/DevAlissu/DevAlissu/blob/main/Imagens/Footer.jpg?raw=true"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/DevAlissu/DevAlissu/blob/main/Imagens/footerpag.jpg?raw=true"></div>
 </div>
