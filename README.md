@@ -22,7 +22,7 @@
 
  
 > **I am a software engineer student with skills in both backend and frontend, as well as a UX/UI designer and experience in database management. \
-> I have experience in web development and as a research and development scholar at INPA (National Institute of Amazonian Research). My hobbies include programming, creating designs in Figma and Illustrator, and reading philosophy. I have a future desire to become a professor and a machine learning engineer.** \
+> My hobbies include programming, creating designs in Figma and Illustrator, and reading philosophy. I have a future desire to become a professor and a machine learning engineer.** \
 > ***Contact me using the following means:*** 
 > 
 > <a href="https://api.whatsapp.com/send/?phone=%2B819063818361&text&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="zap" /></a> <a href="https://www.linkedin.com/in/alison-silva-6787a3154/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JS" />
