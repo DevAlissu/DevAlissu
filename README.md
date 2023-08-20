@@ -6,7 +6,9 @@
  <br>
  <div align="right">
   
-#### ***Language:*** <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/4a96443c9452739f8b7d7bbceb40c0fb89c61c5e/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
+<span><b><i>Language:</b></i></span> <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/4a96443c9452739f8b7d7bbceb40c0fb89c61c5e/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
+
+---
 
 </div>
  
