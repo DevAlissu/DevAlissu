@@ -48,7 +48,7 @@
  
 <div align="center">
   
-  ## Dados do meu GitHub:
+## Dados do meu GitHub:
   
  <table>
     <tr>
