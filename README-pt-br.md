@@ -20,7 +20,7 @@
   
  <br>
 <div align="center">
-  <img src="./Imagens/iconsafro64.png"  alt="pentinho" /> 
+  <img src="./Imagens/iconsafro64.png" width="48" alt="pentinho" /> 
 </div>
  <br>
  
