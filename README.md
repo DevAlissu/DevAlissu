@@ -4,16 +4,18 @@
              </div>
  </div>
  
+ <div align="right">
+  
+### **Language:** <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/4a96443c9452739f8b7d7bbceb40c0fb89c61c5e/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
+
+</div>
+ 
 <br>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4000&pause=1000&color=972996&center=true&width=435&separator=%3C&lines=I+am+Alissu;%3CSoftware+Engineering+student;%3CBackend+Developer;%3CFrontend+Developer;%3CUX%2FUI+Designer;%3Cconsole.log(%22Hello+World!!%22);" alt="Typing SVG" /></a>   
 </div>
-<div align="right">
-  
-### **Language:** <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/4a96443c9452739f8b7d7bbceb40c0fb89c61c5e/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
 
-</div>
   
  <br>
 
