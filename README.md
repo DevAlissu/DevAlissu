@@ -20,7 +20,7 @@
   
  <br>
 <div align="center">
-  <img src="./Imagens/iconsafro64.png"  alt="pentinho" /> 
+  <img src="./Imagens/iconsafro64.png" width="48"  alt="pentinho" /> 
 </div>
  <br>
  
@@ -41,7 +41,7 @@
 
 ## Languages & Frameworks I code in:
    
-<img src="./Imagens/Techs/iconjs.png" alt="js"/> </tr> <img src="./Imagens/Techs/iconreact.png" alt="react"/> <img src="./Imagens/Techs/iconc.png" alt="Jquery"/> <img src="./Imagens/Techs/jquery.png" alt="Jquery"/> <img src="./Imagens/Techs/iconsangular.png" alt="angular"/> <img src="./Imagens/Techs/illustrator_5968472.png" alt="ilustrator"/> <img src="./Imagens/Techs/iconfigma.png" alt="figma"/> <img src="./Imagens/Techs/iconvue.png" alt="vuejs"/> <img src="./Imagens/Techs/iconpy.png" alt="py" /> 
+<img src="./Imagens/Techs/iconjs.png" width="48" alt="js"/> </tr> <img src="./Imagens/Techs/iconreact.png" width="48" alt="react"/> <img src="./Imagens/Techs/iconc.png" width="48" alt="c"/> <img src="./Imagens/Techs/jquery.png" width="48" alt="Jquery"/> <img src="./Imagens/Techs/iconsangular.png" width="48" alt="angular"/> <img src="./Imagens/Techs/illustrator_5968472.png" width="48" alt="ilustrator"/> <img src="./Imagens/Techs/iconfigma.png" width="48" alt="figma"/> <img src="./Imagens/Techs/iconvue.png" width="48" alt="vuejs"/> <img src="./Imagens/Techs/iconpy.png" width="48" alt="py" /> 
 </div>
 
  <br>
