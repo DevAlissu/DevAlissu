@@ -3,10 +3,26 @@
               <img alt="bem-vindo ao meu perfil" width="100%" src="https://github.com/DevAlissu/DevAlissu/blob/main/Imagens/header.jpg?raw=true">
              </div>
  </div>
+ 
 <br>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4000&pause=1000&color=972996&center=true&width=435&separator=%3C&lines=I+am+Alissu;%3CSoftware+Engineering+student;%3CBackend+Developer;%3CFrontend+Developer;%3CUX%2FUI+Designer;%3Cconsole.log(%22Hello+World!!%22);" alt="Typing SVG" /></a>   
 </div>
+<div align="right">
+  
+### **Language:** <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/4a96443c9452739f8b7d7bbceb40c0fb89c61c5e/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
+
+</div>
+  
+ <br>
+
+ 
+> **I am a software engineer student with skills in both backend and frontend, as well as a UX/UI designer and experience in database management. \
+> I have experience in web development and as a research and development scholar at INPA (National Institute of Amazonian Research). \
+> My hobbies include programming, creating designs in Figma and Illustrator, and reading philosophy. I have a future desire to become a professor and a machine learning engineer.** \
+> Contact me using the following means \
+<a href="https://api.whatsapp.com/send/?phone=%2B819063818361&text&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="zap" /></a>  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JS" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JS" />
 
 
 
