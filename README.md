@@ -8,7 +8,7 @@
   
 <span><b><i>Language:</b></i></span> <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README.md"><img src="./Imagens/iconEUA.png" alt="Bandeira dos Estados Unidos da América" width="23px"></a>  <a href="https://github.com/DevAlissu/DevAlissu/blob/main/README-pt-br.md"><img src="./Imagens/iconBR.png" alt="Bandeira do Brasil" width="23px"></a> 
 
-
+a
 </div>
  
 <br>
