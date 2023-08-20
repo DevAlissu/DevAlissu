@@ -54,7 +54,7 @@
   
  <table>
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&card_width=800&title_color=995098&icon_color=771e76&show_icons=true&bg_color=1a0d19&locale=en&theme=midnight-purple&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></td>
+        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&card_width=800&title_color=995098&icon_color=771e76&show_icons=true&bg_color=1a0d19&locale=en&theme=midnight-purple&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></td>
         <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&title_color=995098&icon_color=240122&bg_color=1a0d19&locale=en&theme=midnight-purple&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></td>
     </tr>
     <tr>
