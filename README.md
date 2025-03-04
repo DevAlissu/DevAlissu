@@ -57,7 +57,7 @@
         <td rowspan="2" align="center"><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&title_color=995098&icon_color=240122&bg_color=1a0d19&theme=midnight-purple&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&theme=black"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&card_width=800&locale=pt-br&dates=FFFFFF&background=1A0D19&border=FFFFFF&stroke=FF40FD&ring=B92FB8&fire=771E76&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FF40FD"/></a></td>
+        <td align="center"><a href="https://github.com/DevAlissu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&theme=black"/></a><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&card_width=800&dates=FFFFFF&background=1A0D19&border=FFFFFF&stroke=FF40FD&ring=B92FB8&fire=771E76&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FF40FD"/></a></td>
     </tr>
    
 </table>
