@@ -1,0 +1,36 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Clone github-readme-stats
+        run: git clone --depth 1 https://github.com/DevAlissu/github-readme-stats.git /tmp/stats-app
+
+      - name: Install dependencies
+        run: cd /tmp/stats-app && npm install
+
+      - name: Generate stats cards
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+        run: node scripts/generate-cards.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards/
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "atualiza cards de stats"
+          git push

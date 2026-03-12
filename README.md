@@ -53,8 +53,8 @@
   ## Data from my GitHub:
  <table>
     <tr>
-        <td align="center"><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DevAlissu&card_width=800&title_color=995098&icon_color=771e76&show_icons=true&bg_color=1a0d19&theme=midnight-purple&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></td>
-        <td rowspan="2" align="center"><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlissu&title_color=995098&icon_color=240122&bg_color=1a0d19&theme=midnight-purple&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></td>
+        <td align="center"><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="./cards/stats-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></td>
+        <td rowspan="2" align="center"><a href="https://github.com/DevAlissu#gh-dark-mode-only"><img src="./cards/top-langs-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></td>
     </tr>
    <tr>
     <td align="center">
