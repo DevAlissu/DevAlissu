@@ -9,7 +9,7 @@
 
   <!-- Total Contributions -->
   <g transform="translate(133, 48)">
-    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">1326</text>
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">1327</text>
     <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Total Contributions</text>
     <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Jan 25, 2021 - Present</text>
   </g>
