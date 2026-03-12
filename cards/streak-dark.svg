@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="195" viewBox="0 0 800 195">
+  <defs>
+    <style>
+      @keyframes currstreak { 0% { font-size: 3px; opacity: 0.2; } 80% { font-size: 34px; opacity: 1; } 100% { font-size: 28px; opacity: 1; } }
+      @keyframes fadein { 0% { opacity: 0; } 100% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect xmlns="http://www.w3.org/2000/svg" rx="4.5" x="0.5" y="0.5" width="799" height="194" fill="#1A0D19" stroke="#FFFFFF"/>
+
+  <!-- Total Contributions -->
+  <g transform="translate(133, 48)">
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">1325</text>
+    <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Total Contributions</text>
+    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Jan 25, 2021 - Present</text>
+  </g>
+
+  <!-- Current Streak (center) -->
+  <g transform="translate(400, 48)">
+    <!-- Ring -->
+    <circle cx="0" cy="28" r="40" fill="none" stroke="#B92FB8" stroke-width="5" stroke-opacity="0.2"/>
+    <circle cx="0" cy="28" r="40" fill="none" stroke="#B92FB8" stroke-width="5" stroke-dasharray="251.32741228718345" stroke-dashoffset="182.78357257249706" stroke-linecap="round" transform="rotate(-90 0 28)"/>
+    <!-- Fire icon -->
+    <g transform="translate(-8, -8)">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="22" viewBox="0 0 16 22" fill="none">
+        <path d="M8 0C5.6 4.4 0 6.5 0 12.5C0 17.2 3.6 21 8 21C12.4 21 16 17.2 16 12.5C16 6.5 10.4 4.4 8 0Z" fill="#771E76" opacity="0.9"/>
+      </svg>
+    </g>
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">3</text>
+    <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Current Streak</text>
+    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Mar 9, 2026 - Mar 11, 2026</text>
+  </g>
+
+  <!-- Longest Streak -->
+  <g transform="translate(667, 48)">
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">11</text>
+    <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Longest Streak</text>
+    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Jun 2, 2025 - Jun 12, 2025</text>
+  </g>
+
+  <!-- Dividers -->
+  <line x1="266" y1="28" x2="266" y2="170" stroke="#FF40FD" stroke-width="1"/>
+  <line x1="534" y1="28" x2="534" y2="170" stroke="#FF40FD" stroke-width="1"/>
+</svg>

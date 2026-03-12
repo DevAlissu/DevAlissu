@@ -58,11 +58,8 @@
     </tr>
    <tr>
     <td align="center">
-        <a href="https://github.com/DevAlissu#gh-light-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&theme=black"/>
-        </a>
         <a href="https://github.com/DevAlissu#gh-dark-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlissu&card_width=800&dates=FFFFFF&background=1A0D19&border=FFFFFF&stroke=FF40FD&ring=B92FB8&fire=771E76&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FF40FD"/>
+            <img src="./cards/streak-dark.svg#gh-dark-mode-only" alt="GitHub Streak"/>
         </a>
     </td>
 </tr>
