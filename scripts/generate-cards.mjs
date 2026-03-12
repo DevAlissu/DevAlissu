@@ -17,28 +17,6 @@ const PAT = process.env.PAT_1;
 const outDir = "cards";
 mkdirSync(outDir, { recursive: true });
 
-// ─── Fetch stats & top languages ───
-console.log("Fetching stats...");
-const stats = await fetchStats(
-  USERNAME,
-  true, // include_all_commits
-  [],   // exclude_repo
-  false, // include_merged_pull_requests
-  false, // include_discussions
-  false, // include_discussions_answers
-);
-
-console.log(`Total commits found: ${stats.totalCommits}`);
-console.log(`Total PRs: ${stats.totalPRs}`);
-console.log(`Total stars: ${stats.totalStars}`);
-console.log(`Total issues: ${stats.totalIssues}`);
-
-console.log("Fetching top languages...");
-const topLangs = await fetchTopLanguages(USERNAME, []);
-
-// ─── Fetch contribution calendar for streak ───
-console.log("Fetching contribution calendar for streak...");
-
 async function graphql(query) {
   const res = await fetch("https://api.github.com/graphql", {
     method: "POST",
@@ -51,25 +29,67 @@ async function graphql(query) {
   return res.json();
 }
 
-// Fetch contribution data year by year (API limit: max 1 year span)
+// ─── Fetch stats & top languages ───
+console.log("Fetching stats...");
+const stats = await fetchStats(
+  USERNAME,
+  true, // include_all_commits
+  [],   // exclude_repo
+  false, // include_merged_pull_requests
+  false, // include_discussions
+  false, // include_discussions_answers
+);
+
+// Override totalCommits with GraphQL data (includes private repos)
+console.log(`Search API commits: ${stats.totalCommits}`);
+console.log("Fetching real commit count via GraphQL (includes private repos)...");
+
 const ACCOUNT_CREATED = "2021-01-25";
 const today = new Date().toISOString().split("T")[0];
-const allDays = [];
 
-// Build year ranges
+// Build year ranges for GraphQL queries
 const ranges = [];
 let start = new Date(ACCOUNT_CREATED);
 while (start < new Date(today)) {
   const end = new Date(start);
   end.setFullYear(end.getFullYear() + 1);
   if (end > new Date(today)) {
-    // For the last partial year, don't set 'to' - let API use default
     ranges.push({ from: start.toISOString(), to: null });
   } else {
     ranges.push({ from: start.toISOString(), to: end.toISOString() });
   }
   start = end;
 }
+
+let realTotalCommits = 0;
+for (let i = 0; i < ranges.length; i++) {
+  const { from, to } = ranges[i];
+  const toArg = to ? `, to: "${to}"` : "";
+  const query = `{
+    user(login: "${USERNAME}") {
+      contributionsCollection(from: "${from}"${toArg}) {
+        totalCommitContributions
+      }
+    }
+  }`;
+  const data = await graphql(query);
+  const commits = data.data.user.contributionsCollection.totalCommitContributions;
+  realTotalCommits += commits;
+}
+
+console.log(`GraphQL total commits (with private): ${realTotalCommits}`);
+stats.totalCommits = Math.max(stats.totalCommits, realTotalCommits);
+console.log(`Final total commits: ${stats.totalCommits}`);
+console.log(`Total PRs: ${stats.totalPRs}`);
+console.log(`Total stars: ${stats.totalStars}`);
+console.log(`Total issues: ${stats.totalIssues}`);
+
+console.log("Fetching top languages...");
+const topLangs = await fetchTopLanguages(USERNAME, []);
+
+// ─── Fetch contribution calendar for streak ───
+console.log("Fetching contribution calendar for streak...");
+const allDays = [];
 
 for (let i = 0; i < ranges.length; i++) {
   const { from, to } = ranges[i];
