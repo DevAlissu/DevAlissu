@@ -5,11 +5,16 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_1 }}
 
       - uses: actions/setup-node@v4
         with:
@@ -24,6 +29,7 @@ jobs:
       - name: Generate stats cards
         env:
           PAT_1: ${{ secrets.PAT_1 }}
+          STATS_APP_PATH: /tmp/stats-app
         run: node scripts/generate-cards.mjs
 
       - name: Commit and push
