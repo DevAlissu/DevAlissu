@@ -9,7 +9,7 @@
 
   <!-- Total Contributions -->
   <g transform="translate(133, 48)">
-    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">2137</text>
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">2140</text>
     <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Total Contributions</text>
     <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Jan 25, 2021 - Present</text>
   </g>
@@ -25,16 +25,16 @@
         <path d="M8 0C5.6 4.4 0 6.5 0 12.5C0 17.2 3.6 21 8 21C12.4 21 16 17.2 16 12.5C16 6.5 10.4 4.4 8 0Z" fill="#771E76" opacity="0.9"/>
       </svg>
     </g>
-    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">22</text>
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">23</text>
     <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Current Streak</text>
-    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Apr 12, 2026 - May 3, 2026</text>
+    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Apr 12, 2026 - May 4, 2026</text>
   </g>
 
   <!-- Longest Streak -->
   <g transform="translate(667, 48)">
-    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">22</text>
+    <text x="0" y="32" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" text-anchor="middle" style="animation: currstreak 0.6s ease-in-out forwards">23</text>
     <text x="0" y="60" fill="#FFFFFF" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" text-anchor="middle">Longest Streak</text>
-    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Apr 12, 2026 - May 3, 2026</text>
+    <text x="0" y="78" fill="#FF40FD" stroke="none" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" text-anchor="middle" style="animation: fadein 0.5s linear forwards">Apr 12, 2026 - May 4, 2026</text>
   </g>
 
   <!-- Dividers -->
