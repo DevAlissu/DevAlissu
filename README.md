@@ -68,7 +68,7 @@
 </div>
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/DevAlissu/count.svg">
+    <img alt="visitors counter" src="https://counter.alissu.dev/DevAlissu/count.svg">
 </div>
 
 <br>
