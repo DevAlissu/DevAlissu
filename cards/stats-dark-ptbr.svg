@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Alissu, Rank: A-</title>
-        <desc id="descId">Total de estrelas: 19, Total de Commits  : 3427, Total de PRs: 239, Total de Issues: 3, Contribuiu para (ano passado): 15</desc>
+        <desc id="descId">Total de estrelas: 19, Total de Commits  : 3438, Total de PRs: 239, Total de Issues: 3, Contribuiu para (ano passado): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.21634805516236;
+        stroke-dashoffset: 94.18676640836128;
       }
     }
   
@@ -222,7 +222,7 @@
         x="269.01"
         y="12.5"
         data-testid="contribs"
-      >15</text>
+      >14</text>
     </g>
   </g>
     </svg>
